@@ -1,9 +1,7 @@
 
 # Multi-Teacher Knowledge Distillation
 
-this repository contains a part of the code developed as part of my PhD thesis: "Multi-teacher knowledge distillation as an
-effective method for compressing ensembles
-of neural networks".
+This repository contains a part of the code developed as part of my [PhD dissertation](https://arxiv.org/abs/2302.07215): "Multi-teacher knowledge distillation as an effective method for compressing ensembles of neural networks".
 
 ## Abstract
 
