@@ -37,3 +37,5 @@ In the first example, we used knowledge distillation to develop models that coul
 [notebooks/results.ipynb](./notebooks/results.ipynb) - Jupyter notebook in which the results and figures of the obtained test results are generated.
 <br />
 [notebooks/plots.ipynb](./notebooks/plots.ipynb) - Jupyter notebook in which some figures included in the methodology chapter are generated.
+
+[Files](https://drive.google.com/drive/folders/1QnY-zEwSccwxK84wuWNDJPF-7r4gjtM1?usp=sharing) that describe how data samples were split down into subsets.
